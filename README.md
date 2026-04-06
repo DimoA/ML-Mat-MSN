@@ -38,6 +38,6 @@ These materials are structured to help students progressively build familiarity 
 
 ## Step N°1: Let's set up the environement
 
-### By clicking in the badge below you will open your first Jubyter notebook in your personal google colab space:
+By clicking in the badge below you will open your first Jubyter notebook in your personal google colab space:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
