@@ -35,28 +35,27 @@ The repository includes:
 
 These materials are structured to help students progressively build familiarity with key concepts and tools used in machine learning.
 
-## 1- Let's set up the work environement
+## 1. Let's set up the work environement
 
 By clicking in the badge below you will open your first Jubyter notebook in your personal google colab space:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
-## 2- Python programming for Machine Learning
+## 2. Python programming for Machine Learning
 
 In this notebook we demonstrate how Python and key scientific libraries can be used to manipulate, visualize, and analyze modeling data.
 
-### 2-1- Why Python?
+### 2-1. Why Python?
 
 First let's start with some basics in python and why it is considered the number one choice for ML:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
-### 2-2- A short introduction to Numpy
+### 2-2. A short introduction to Numpy and Pandas
 
-### 2-3- A short introduction to Pandas
+### 2-3. A short introduction to Pytorch and Keras
 
-### 2-4- A short introduction to Pytorch
 
-## 3- Machine Learning Concepts for material science
+## 3. Machine Learning Concepts for material science
 
-## 4- PDEs and thier computational challenges in continuum modelling
+## 4. PDEs and thier computational challenges in continuum modelling
