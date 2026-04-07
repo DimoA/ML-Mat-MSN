@@ -51,11 +51,11 @@ First let's start with some basics in python and why it is considered the number
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
-### 2-2. A short introduction to Numpy and Pandas
+### 2-2. A short introduction to Numpy, Scipy and Pandas
 
 ### 2-3. A short introduction to Pytorch and Keras
 
 
-## 3. Machine Learning Concepts for material science
+## 3. Machine Learning Concepts for Material Science
 
 ## 4. PDEs and thier computational challenges in continuum modelling
