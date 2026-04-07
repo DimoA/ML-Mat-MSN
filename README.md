@@ -49,7 +49,7 @@ In this notebook we demonstrate how Python and key scientific libraries can be u
 
 First let's start with some basics in python and why it is considered the number one choice for ML:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Why-Python.ipynb)
 
 ### 2-2. A short introduction to Numpy, Scipy and Pandas
 
