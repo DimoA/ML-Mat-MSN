@@ -56,3 +56,7 @@ First let's start with some basics in python and why it is considered the number
 ### 2-3- A short introduction to Pandas
 
 ### 2-4- A short introduction to Pytorch
+
+## 3- Machine Learning Concepts for material science
+
+## 4- PDEs and thier computational challenges in continuum modelling
