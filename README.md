@@ -37,19 +37,19 @@ These materials are structured to help students progressively build familiarity 
 
 ## 1. Let's set up the work environement
 
-By clicking in the badge below you will open your first Jubyter notebook in your personal google colab space:
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
+By clicking in the badge below you will open your first Jubyter notebook in your personal google colab space:
+
 ## 2. Python programming for Machine Learning
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Why_Python.ipynb)
 
 In this notebook we demonstrate how Python and key scientific libraries can be used to manipulate, visualize, and analyze modeling data.
 
 ### 2-1. Why Python?
 
 First let's start with some basics in python and why it is considered the number one choice for ML:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Why_Python.ipynb)
 
 ### 2-2. A short introduction to Numpy, Scipy and Pandas
 
