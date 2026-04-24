@@ -35,6 +35,12 @@ The repository includes:
 
 These materials are structured to help students progressively build familiarity with key concepts and tools used in machine learning.
 
+## 0. Skills assesement
+
+To help me adapt the live coding examples and technical depth of this course to your experience level, please take 2 minutes to complete the quick skills survey below:
+
+**[Complete the Skills Assessment Form Here]([INSERT_YOUR_MICROSOFT_FORMS_LINK_HERE](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=V2FiOUegiUaHom-mRctctzV9tLjYG9dAsI0yLJmchBlUNjc5QlVJMTBKSVBJUlNXME5QQUhDQzhYRS4u))**
+
 ## 1. Let's set up the work environement
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
