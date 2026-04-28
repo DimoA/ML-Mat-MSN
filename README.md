@@ -35,27 +35,27 @@ The repository includes:
 
 These materials are structured to help students progressively build familiarity with key concepts and tools used in machine learning.
 
-## 0. Skills assesement
+## 1. Skills assesement
 
 To help me adapt the live coding examples and technical depth of this course to your experience level, please take 2 minutes to complete the quick skills survey below:
 
 **[Complete the Skills Assessment Form Here](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=V2FiOUegiUaHom-mRctctzV9tLjYG9dAsI0yLJmchBlUNjc5QlVJMTBKSVBJUlNXME5QQUhDQzhYRS4u)**
 
-## 1. Let's set up the work environement
+## 2. Python programming for Machine Learning
+
+### 2-0. Let's set up the work environement
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
 By clicking in the badge above you will open your first Jubyter notebook in your personal google colab space:
 
-## 2. Python programming for Machine Learning
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Why_Python.ipynb)
 
 In this notebook we demonstrate how Python and key scientific libraries can be used to manipulate, visualize, and analyze modeling data.
 
-### 2-1. Why Python?
+### 2-1. Python: The very basics
 
-First let's start with some basics in python and why it is considered the number one choice for ML:
+First let's start with some basics in python
 
 ### 2-2. A short introduction to Numpy, Scipy and Pandas
 
