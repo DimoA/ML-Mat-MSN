@@ -43,9 +43,9 @@ To help me adapt the live coding examples and technical depth of this course to 
 
 ## 2. Python programming for Machine Learning
 
-### 2-0. Let's set up the work environement
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Why_Python.ipynb)
+
+### 2-0. Let's set up the work environement
 
 By clicking in the badge above you will open your first Jubyter notebook in your personal google colab space.
 
