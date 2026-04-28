@@ -58,10 +58,25 @@ In this notebook we demonstrate how Python and key scientific libraries can be u
 First let's start with some basics in python
 
 ### 2-2. A short introduction to Numpy, Scipy and Pandas
+#### 2-2-1. Numpy: fast numerical computing in Python
+#### 2-2-2. SciPy: scientific computing toolbox
+#### 2-2-3. Pandas for Data Handling
+#### 2-3-4. Scikit-learn: classic machine learning
 
-### 2-3. A short introduction to Pytorch and Keras
+### 2-3. A short introduction to TensorFlow, Pytorch and Keras
 
 
 ## 3. Machine Learning Concepts for Material Science
+
+### 3-1. Typical ML workflow in materials science 
+### 3-2. Core concepts
+
+#### 3-2-1. Features & representations
+#### 3-2-2. Train/val/test
+#### 3-2-3. Overfitting
+#### 3-2-4. Loss functions & optimization
+#### 3-2-5. Evaluation metrics
+
+### 3-3. Literature examples of ML and DL usage in Materials science (other than molecular design)
 
 ## 4. PDEs and thier computational challenges in continuum modelling
