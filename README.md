@@ -45,11 +45,9 @@ To help me adapt the live coding examples and technical depth of this course to 
 
 ### 2-0. Let's set up the work environement
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
-
-By clicking in the badge above you will open your first Jubyter notebook in your personal google colab space:
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Why_Python.ipynb)
+
+By clicking in the badge above you will open your first Jubyter notebook in your personal google colab space.
 
 In this notebook we demonstrate how Python and key scientific libraries can be used to manipulate, visualize, and analyze modeling data.
 
@@ -58,24 +56,25 @@ In this notebook we demonstrate how Python and key scientific libraries can be u
 First let's start with some basics in python
 
 ### 2-2. A short introduction to Numpy, Scipy and Pandas
-#### 2-2-1. Numpy: fast numerical computing in Python
-#### 2-2-2. SciPy: scientific computing toolbox
-#### 2-2-3. Pandas for Data Handling
-#### 2-3-4. Scikit-learn: classic machine learning
+  #### 2-2-1. Numpy: fast numerical computing in Python
+  #### 2-2-2. SciPy: scientific computing toolbox
+  #### 2-2-3. Pandas for Data Handling
+  #### 2-3-4. Scikit-learn: classic machine learning
 
 ### 2-3. A short introduction to TensorFlow, Pytorch and Keras
 
-
 ## 3. Machine Learning Concepts for Material Science
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DimoA/ML-Mat-MSN/blob/main/Notebooks/Intro.ipynb)
 
 ### 3-1. Typical ML workflow in materials science 
 ### 3-2. Core concepts
 
-#### 3-2-1. Features & representations
-#### 3-2-2. Train/val/test
-#### 3-2-3. Overfitting
-#### 3-2-4. Loss functions & optimization
-#### 3-2-5. Evaluation metrics
+  #### 3-2-1. Features & representations
+  #### 3-2-2. Train/val/test
+  #### 3-2-3. Overfitting
+  #### 3-2-4. Loss functions & optimization
+  #### 3-2-5. Evaluation metrics
 
 ### 3-3. Literature examples of ML and DL usage in Materials science (other than molecular design)
 
